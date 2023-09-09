@@ -1,11 +1,10 @@
-package com.csc207;
+package com.java4python;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.*;
 
-public class JavaPython {
+public class TextbookDemo {
     public static void main(String[] args) {
 //        TemperatureConverter.convertF();
 //        LineReader.readDat();
